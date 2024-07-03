@@ -1,6 +1,6 @@
 # Advanced Android App Security Analysis: A Static Code Inspection Study
 
-![MobileAudit](Application-Security-Analysis/mobileaudit.png)
+![MobileAudit](mobileaudit.png)
 
 ## Project Overview
 
